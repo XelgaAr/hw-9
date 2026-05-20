@@ -1,0 +1,7 @@
+{
+  "name": "hw-9",
+  "packageManager": "yarn@4.14.1",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
